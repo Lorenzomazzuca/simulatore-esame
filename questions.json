@@ -1,32 +1,703 @@
 [
   {
-    "question": "Nei mercati creditizi che tipi di strumenti finanziari troviamo:",
+    "question": "In quale anno Fisher Black e Myron Scholes pubblicarono il modello di valutazione delle opzioni",
+    "answers": ["1983", "1963", "1973", "1986"],
+    "correct": 2
+  },
+  {
+    "question": "L’opzione reale si differenzia da quella finanziaria per:",
     "answers": [
-      "solamente mutui",
-      "strumenti finanziari privi del requisito di trasferibilità e di negoziabilità; strumenti personalizzati",
-      "strumenti finanziari trasferibili e negoiabili; strumenti finanziari standardizzati",
-      "strumenti finanziari trasferibili e privi del requisito di negoziabilità; strumenti finanziari standardizzati"
+      "L’elevata specificità e assenza di un mercato dell’underlying",
+      "Assenza di un mercato dell’underlying",
+      "Presenza di un derivato su indici",
+      "Presenza di un mercato regolamentato"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale di queste affermazioni su Basilea I è falsa",
+    "answers": [
+      "Considera il tempo di esposizione al rischio della banca (Maturity)",
+      "Ignora completamente l’effetto di diversificazione del rischio di portafoglio",
+      "Il sistema appare eccessivamente standardizzato",
+      "Considera il solo rischio di credito"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Negli approcci semplificati (BIA) si presuppone:",
+    "answers": [
+      "Una correlazione positiva tra il reddito lordo (Gross Income) ed il rischio operativo",
+      "Una correlazione negativa tra il reddito lordo (Gross Income) ed il rischio operativo",
+      "Un’indipendenza tra il reddito lordo (Gross Income) ed il rischio operativo",
+      "Un’indipendenza tra il reddito netto ed il rischio operativo"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Quale, fra le seguenti, è un’informazione quantitativa",
+    "answers": [
+      "Immagine e notorietà della marca",
+      "Sistema organizzativo e qualità del sistema informativo aziendale",
+      "Dati settoriali e territoriali",
+      "Attività di R&S"
     ],
     "correct": 1
   },
   {
-    "question": "L’azione IBM ha un prezzo corrente di euro 12.58. Il dividendo atteso per il prossimo anno è di euro 0.64 per azione, con un rapporto di distribuzione pari all’80%. Il tasso di rendimento richiesto dagli azionisti è pari al 10%. A quanto è uguale G:",
+    "question": "Dove trova copertura la perdita inattesa",
     "answers": [
-      "24,55%",
-      "0%",
-      "4,91%",
-      "0,09%"
+      "Patrimonio di vigilanza",
+      "Ammortamenti e rettifiche",
+      "Patrimonio contabile",
+      "Flusso di cassa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Nella matrice di transizione, quando r=s, dove si dispongono gli elementi della matrice di transizione",
+    "answers": [
+      "Sulla prima riga",
+      "Lungo la diagonale principale",
+      "Lungo il vettore colonna",
+      "Lungo il vettore riga"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Nello stress test 2011, di quanto diminuisce il CTI ratio nello scenario avverso",
+    "answers": [
+      "2 punti percentuali",
+      "3 punti percentuali",
+      "3,5 punti percentuali",
+      "1,2 punti percentuali"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Secondo lo studio condotto da Campanella e Serino (2019), quali sono le variabili che hanno un impatto sull'ottenimento del credito bancario",
+    "answers": [
+      "Solo genere",
+      "Età e genere",
+      "Età, genere ed esperienza",
+      "Nessuna variabile ha un impatto significativo"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quanti sono gli input del Creditmetrics",
+    "answers": ["Sei", "Otto", "Nove", "Cinque"],
+    "correct": 0
+  },
+  {
+    "question": "Nel Creditmetrics, qual è la terza fase delle simulazioni Montecarlo",
+    "answers": [
+      "Calcolo del valore futuro dell’esposizione attraverso un’opportuna curva dei tassi forward e in funzione della classe di rating assegnata",
+      "Valutazione del portafoglio in corrispondenza di ogni scenario",
+      "Calcolo del valore futuro del portafoglio nello scenario sommando i valori di tutte le N posizioni",
+      "Simulazione di vari scenari (classi di rating) che possono verificarsi in un dato orizzonte temporale (1 anno)"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Nell'ambito del CreditRisk+, cosa indica il parametro 5ØiP",
+    "answers": [
+      "Il numero di insolvenze atteso",
+      "La probabilità di insolvenza condizionata",
+      "La somma di tutti i valori delle LGD medie dei clienti in portafoglio",
+      "La somma di tutti i valori delle EAD medie dei clienti in portafoglio"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Con il termine Mark to Market si intende:",
+    "answers": [
+      "Un processo di controllo del rischio, tramite il quale alla fine della giornata la Clearing House valorizza le posizioni su strumenti derivati ancora aperte",
+      "Un metodo di valutazione che aggiusta in modo sistematico il valore di un contratto o di uno strumento finanziario in relazione ai valori contabili",
+      "Un metodo di valutazione dei contratti forward",
+      "Un metodo di valorizzazione di un derivato effettuata sulla base della quotazione di chiusura di un contratto derivato similare"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La teoria della parità dei tassi di interesse afferma che:",
+    "answers": [
+      "La differenza percentuale tra il tasso a termine e il tasso a pronti è uguale alla variazione relativa attesa del tasso a pronti",
+      "Il rapporto fra i tassi di interesse privi di rischio in due Paesi diversi è uguale al rapporto fra i tassi di cambio a termine e a pronti",
+      "La differenza attesa dei tassi di inflazione fra due paesi è uguale alla variazione attesa dei tassi di cambio a pronti",
+      "Il prezzo di un bene in due Paesi è lo stesso, una volta considerati i tassi di cambio"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Come il processo di rating aiuta gli investitori?",
+    "answers": [
+      "Fornendo solamente dati storici sulle performance passate",
+      "Offrendo analisi e valutazioni rischio-rendimento degli strumenti finanziari",
+      "Assicurando un rendimento minimo sugli investimenti",
+      "Limitando l’accesso agli strumenti finanziari più rischiosi"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Che cos'è l'apertura di credito in conto corrente",
+    "answers": [
+      "Un contratto con rata di rimborso fissa",
+      "Un contratto in cui la banca mette a disposizione una somma rotativa",
+      "Un contratto con interesse zero",
+      "Una forma di credito non rotativa"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Come si determina il prezzo di un titolo zero coupon bond alla scadenza",
+    "answers": [
+      "Dal valore nominale meno le cedole non pagate",
+      "Dal valore nominale più un interesse accumulato",
+      "Dalla differenza tra il prezzo di acquisto e il valore di rimborso",
+      "Dal valore nominale diviso per il numero di anni fino alla scadenza"
     ],
     "correct": 2
   },
   {
-    "question": "Secondo il CAPM, il premio per il rischio di mercato è:",
+    "question": "Qual è l'effetto di un aumento del tasso di interesse sul TRES di un titolo di debito",
     "answers": [
-      "opposto al beta",
-      "proporzionale al beta",
-      "proporzionale al tasso risk free",
-      "incorrelato rispetto al rendimento dell'equity"
+      "Aumenta il TRES indipendentemente dal prezzo del titolo",
+      "Riduce il TRES poiché il prezzo del titolo sale",
+      "Non ha alcun effetto sul TRES",
+      "Riduce il TRES poiché il prezzo del titolo scende"
     ],
     "correct": 3
-  }
-]
+  },
+  {
+    "question": "Come funzionano gli ETF",
+    "answers": [
+      "Investono in un indice e sono gestiti attivamente",
+      "Sono fondi chiusi disponibili solo per investitori istituzionali",
+      "Replicano l'andamento di un indice di mercato",
+      "Non possono essere negoziati in borsa"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Qual è l'obiettivo principale della gestione individuale di portafogli",
+    "answers": [
+      "Massimizzare il volume delle transazioni",
+      "Personalizzare la gestione degli investimenti secondo le esigenze specifiche del cliente",
+      "Limitare l'investimento a titoli a basso rischio",
+      "Operare senza la supervisione dell'autorità di regolamentazione"
+    ],
+    "correct": 1
+  },
+{
+  "question": "Quindi, se non dispongo di una put sul mercato, posso costruirla in casa. In che modo",
+  "answers": [
+    "Acquisto di una call + valore attuale del prezzo di esercizio - prezzo di un’azione",
+    "Acquisto di una call - valore attuale del prezzo di esercizio - prezzo di un’azione",
+    "Acquisto di una call + valore attuale del prezzo di esercizio + prezzo di un’azione",
+    "Acquisto di una call - valore attuale del prezzo di esercizio + prezzo di un’azione"
+  ],
+  "correct": 0
+},
+{
+  "question": "Si immagini di acquistare una call con prezzo di esercizio pari a 7, mettere da parte in un’attività priva di rischio una somma di 7 euro e vendere l’azione a 7 euro. Se il prezzo di mercato dell’azione scende a 6 euro, quanto vale l'opzione call",
+  "answers": ["6", "9", "0", "1"],
+  "correct": 2
+},
+{
+  "question": "Cosa si intende per opzione put",
+  "answers": [
+    "Diritto di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Diritto di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Obbligo di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Obbligo di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come si calcola il profitto per l’acquirente di una call",
+  "answers": [
+    "Prezzo di esercizio - prezzo di mercato dell'azione",
+    "Prezzo di esercizio + prezzo di mercato dell'azione",
+    "Prezzo di mercato - prezzo di esercizio dell'azione",
+    "Prezzo di mercato / prezzo di esercizio dell'azione"
+  ],
+  "correct": 2
+},
+{
+  "question": "In un mercato perfetto ed efficiente, cosa accade quando il debito diventa alto e rischioso",
+  "answers": [
+    "L'azienda passa dagli azionisti agli obbligazionisti",
+    "L'azienda passa dagli obbligazionisti agli azionisti",
+    "L'azienda resta in mano agli obbligazionisti",
+    "L'azienda resta in mano agli azionisti"
+  ],
+  "correct": 0
+},
+{
+  "question": "L'impresa Alfa è finanziata solo con equity e vi sono 25 mln di azioni in circolazione al prezzo di 10 euro per azione. L'impresa annuncia che intende emettere 160 milioni di debito e utilizzare i proventi per riacquistare azioni. Quante azioni può riacquistare l'impresa?",
+  "answers": ["10 mln", "Nessuna", "Tutte", "16 mln"],
+  "correct": 3
+},
+{
+  "question": "Secondo il CAPM, il premio per il rischio di mercato è:",
+  "answers": [
+    "Opposto al beta",
+    "Proporzionale al beta",
+    "Proporzionale al tasso risk free",
+    "Incorrelato rispetto al rendimento dell'equity"
+  ],
+  "correct": 3
+},
+{
+  "question": "Secondo M&M, qual è l'unico modo per aumentare il valore di un'impresa?",
+  "answers": [
+    "Aumentando il debito",
+    "Diminuendo il debito",
+    "Intervenendo sui flussi di cassa",
+    "Intervenendo sulla leva operativa"
+  ],
+  "correct": 2
+},
+{
+  "question": "Nei mercati creditizi che tipi di strumenti finanziari troviamo:",
+  "answers": [
+    "Solamente mutui",
+    "Strumenti finanziari privi del requisito di trasferibilità e di negoziabilità; strumenti personalizzati",
+    "Strumenti finanziari trasferibili e negoziabili; strumenti finanziari standardizzati",
+    "Strumenti finanziari trasferibili e privi del requisito di negoziabilità; strumenti finanziari standardizzati"
+  ],
+  "correct": 1
+},
+{
+  "question": "L’azione IBM ha un prezzo corrente di euro 12.58. Il dividendo atteso per il prossimo anno è di euro 0.64 per azione, con un rapporto di distribuzione pari all’80%. Il tasso di rendimento richiesto dagli azionisti è pari al 10%. A quanto è uguale G:",
+  "answers": ["24,55%", "0%", "4,91%", "0,09%"],
+  "correct": 2
+},
+{
+  "question": "Cosa si intende per dividendo ordinario:",
+  "answers": [
+    "Dividendo la cui erogazione probabilmente non sarà ripetuta",
+    "Dividendo che gli investitori si aspettano di continuare a ricevere nel futuro",
+    "Dividendo dovuto al nuovo ingresso di un azionisti",
+    "Dividendo in azioni"
+  ],
+  "correct": 1
+},
+{
+  "question": "L’annuncio dell’erogazione o dell’aumento di dividendi provoca l’aumento del prezzo del titolo. Perché:",
+  "answers": [
+    "Per il contenuto informativo dei dividendi",
+    "Perché l'impresa decide di finanziare un nuovo investimento",
+    "Perché gli azionisti decidono di restare nella società",
+    "Perché l'azienda può quotarsi in Borsa"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali sono le ipotesi della teoria di portafoglio:",
+  "answers": [
+    "Orizzonte temporale uniperiodale e unico per tutti gli investitori; investitori propensi al rischio",
+    "Orizzonte temporale uniperiodale e unico per tutti gli investitori; investitori razionali e avversi al rischio",
+    "Orizzonte temporale diverso a seconda degli investitori; investitori razionali e avversi al rischio",
+    "Orizzonte temporale diverso a seconda degli investitori; investitori propensi al rischio"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa rappresenta l'indice di Sharpe:",
+  "answers": [
+    "Il rapporto tra il premio per il rischio e lo scarto quadratico medio",
+    "La covarianza media di tutti i titoli",
+    "La pendenza del capital market line",
+    "Un indice del mercato azionario"
+  ],
+  "correct": 0
+},
+{
+  "question": "E' possibile utilizzare il concetto di valore attuale per la valutazione delle obbligazioni",
+  "answers": ["Sì", "No", "Solo in caso di obbligazioni con cedola", "Solo in caso di obbligazioni senza cedola"],
+  "correct": 0
+},
+{
+  "question": "Quando la diversificazione riduce il rischio:",
+  "answers": [
+    "In caso di mercato perfetto",
+    "Quando ci sono sia azioni che obbligazioni",
+    "Quando la correlazione è maggiore di 1",
+    "Quando la correlazione è minore di 1"
+  ],
+  "correct": 3
+},
+{
+  "question": "Che funzione svolge il mercato secondario:",
+  "answers": ["Finanziamento", "Liquidità", "Informativo", "Di intermediazione"],
+  "correct": 1
+},
+{
+  "question": "Dato un titolo che si attende paghi un dividendo annuo di 3 da qui all’infinito viene scambiato a 100, quale sarà la previsione del mercato circa la crescita dei dividendi se il tasso di attualizzazione coerente con il rischio dell’investimento è del 12%:",
+  "answers": ["0,00%", "0%", "0%", "0%"],
+  "correct": 3
+},
+{
+  "question": "Un'azione è considerata sopravvalutata quando",
+  "answers": [
+    "Il prezzo di mercato è superiore al valore intrinseco",
+    "Il prezzo di mercato è inferiore al valore intrinseco",
+    "Il dividendo annuale è aumentato",
+    "Il valore nominale è stato rivalutato"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali sono i compiti della banca depositaria in un fondo comune",
+  "answers": [
+    "Solo deposito dei fondi raccolti",
+    "Custodia delle risorse e attività di controllo sulle operazioni della SGR",
+    "Gestione attiva del fondo",
+    "Emissione di nuove quote"
+  ],
+  "correct": 1
+},
+{
+  "question": "Il CreditRisk+ prevede l'ipotesi di correlazione tra i default",
+  "answers": [
+    "No, mai",
+    "Sì, in questo caso la variabile 'numero di insolvenze atteso' viene considerata come una variabile aleatoria in funzione di n background factors",
+    "Sì, in questo caso la variabile 'LGD' viene considerata come una variabile aleatoria in funzione di n background factors",
+    "Sì, in questo caso la variabile 'EAD' viene considerata come una variabile aleatoria in funzione di n background factors"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa rappresenta la curva dei rendimenti per scadenza",
+  "answers": [
+    "La relazione tra il prezzo del titolo e il suo tasso cedolare",
+    "La variazione dei rendimenti a scadenza dei titoli in base alla loro durata",
+    "Il rapporto tra i tassi di interesse e il volume di titoli emessi",
+    "Una proiezione dei tassi futuri basati sui rendimenti attuali"
+  ],
+  "correct": 1
+},
+{
+  "question": "A cosa corrisponde l'ultima fase del CreditPortfolioView",
+  "answers": [
+    "Stima dei valori futuri dei fattori macroeconomici",
+    "Stima delle probabilità di insolvenza condizionate",
+    "Confronto tra la PD generate per le classi speculative nel periodo t e la loro media di lungo periodo",
+    "Stima dell'indice di salute del singolo segmento j"
+  ],
+  "correct": 2
+},
+{
+  "question": "Quando è stato sviluppato il CreditRisk+",
+  "answers": ["1957", "1967", "1987", "1997"],
+  "correct": 2
+},
+{
+  "question": "Che cosa indica il vettore riga della matrice di transizione",
+  "answers": [
+    "La distribuzione dei crediti tra le diverse classi di rating al tempo T0",
+    "La distribuzione dei crediti tra le diverse classi di rating al tempo T1",
+    "La distribuzione dei crediti tra classi di rating AAA e BB al tempo T1",
+    "La distribuzione dei crediti tra classi di rating AAA e BB al tempo T0"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quale anno prende in considerazione lo stress test 2011",
+  "answers": ["2010-2011", "2010-2012", "2009-2010", "2011-2012"],
+  "correct": 1
+},
+{
+  "question": "Cosa rappresenta il tasso di errore alfa",
+  "answers": [
+    "La % di imprese insolventi correttamente identificate",
+    "La % di imprese sane correttamente identificate",
+    "La % di imprese insolventi erroneamente identificate",
+    "La % di imprese sane erroneamente identificate come insolventi"
+  ],
+  "correct": 2
+},
+{
+  "question": "A quanto corrisponde lo Z'' cut-off",
+  "answers": ["2.99", "2.189", "1.875", "2.675"],
+  "correct": 3
+},
+{
+  "question": "Cosa si intende per Adverse Selection",
+  "answers": [
+    "Un soggetto dispone di maggiori informazioni rispetto ad altri e può utilizzarle per raggiungere obiettivi personali",
+    "La banca sa che un'impresa che richiede il credito ha una PD superiore a quella stimata dal rating",
+    "Un soggetto dispone di minori informazioni rispetto ad altri e può utilizzarle per raggiungere obiettivi dell'impresa",
+    "La banca sa che un'impresa che richiede il credito ha una PD inferiore a quella stimata dal rating"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quali delle seguenti affermazioni sull'approccio multistato del rischio di credito è falsa",
+  "answers": [
+    "Il deterioramento del merito creditizio della controparte rappresenta una fonte di rischio di credito",
+    "Viene considerato il rischio di migrazione",
+    "Lo stato di default rappresenta uno dei possibili stati e la migrazione in tale stato coincide con l'evento insolvenza",
+    "Il verificarsi dell'evento default è determinato esclusivamente dalla probabilità di default della variabile binaria associata"
+  ],
+  "correct": 3
+},
+{
+  "question": "Come può essere definito lo shadow banking system",
+  "answers": [
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti all'interno del sistema bancario ma con differenti regole",
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti al di fuori del normale sistema bancario",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamento",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamenti esclusivamente a lungo termine"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per Moral hazard",
+  "answers": [
+    "Un soggetto dispone di maggiori informazioni rispetto ad altri e può utilizzarle per raggiungere obiettivi personali",
+    "La banca sa che un'impresa che richiede il credito ha una PD superiore a quella stimata dal rating",
+    "Un soggetto dispone di minori informazioni rispetto ad altri e può utilizzarle per raggiungere obiettivi dell'impresa",
+    "La banca sa che un'impresa che richiede il credito ha una PD inferiore a quella stimata dal rating"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come si chiama il principio-cardine del Comitato di Basilea che prevede regole che non avvantaggino le banche di un Paese rispetto a quelle di un altro",
+  "answers": [
+    "Equal rule fields",
+    "Level playing field",
+    "Level playing rules",
+    "Equal playing"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quale delle seguenti affermazioni sul NSFR non corrisponde al vero",
+  "answers": [
+    "Stabilisce un ammontare minimo accettabile di raccolta stabile basato sulle caratteristiche di liquidità delle attività e delle operazioni di un’istituzione su un orizzonte di un anno",
+    "È volto a limitare l’eccessivo ricorso alla raccolta all’ingrosso a breve termine in periodi di abbondante liquidità di mercato",
+    "È volto ad incoraggiare una migliore valutazione del rischio di liquidità basata su tutte le poste in bilancio e fuori bilancio",
+    "Permette di controbilanciare gli incentivi che le istituzioni avrebbero a finanziare il rispettivo stock di attività liquide con fondi a lungo termine che giungono a scadenza immediatamente dopo l’orizzonte di 30 giorni previsto dall’LCR"
+  ],
+  "correct": 0
+},
+{
+  "question": "In che modo Basilea III cerca di rimediare alla prociclicità del sistema bancario",
+  "answers": [
+    "Attraverso l’innalzamento dei requisiti patrimoniali",
+    "Attraverso l’introduzione dei requisiti di liquidità",
+    "Attraverso l’introduzione della leva finanziaria",
+    "Attraverso l’introduzione di due cuscinetti di capitale"
+  ],
+  "correct": 3
+},
+{
+  "question": "A cosa corrisponde il capital conservation buffer",
+  "answers": [
+    "Al 2,5% delle attività ponderate per il rischio",
+    "Al 2% delle attività ponderate per il rischio",
+    "Al 3,5% delle attività ponderate per il rischio",
+    "Al 4,5% delle attività ponderate per il rischio"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quale delle seguenti affermazioni sulle simulazioni Montecarlo è falsa",
+  "answers": [
+    "I parametri sono calcolati sulla base dei dati storici raccolti",
+    "In corrispondenza di ognuno degli scenari, si calcola il valore contabile della singola posizione a rischio",
+    "Per il calcolo del VAR si segue la logica del percentile",
+    "Gli scenari sono definiti sulla base della distribuzione di probabilità scelta e dei parametri che descrivono la distribuzione"
+  ],
+  "correct": 1
+},
+{
+  "question": "Negli approcci semplificati (BIA), come viene calcolato il MID",
+  "answers": [
+    "Come media degli ultimi 5 anni",
+    "Come media degli ultimi 3 anni",
+    "Come media degli ultimi 4 anni",
+    "Come media degli ultimi 6 anni"
+  ],
+  "correct": 1
+},
+{
+  "question": "Secondo il modello delle real options, per calcolare i nodi superiori dell'albero, cosa bisogna tenere in considerazione",
+  "answers": [
+    "La probabilità di neutralità al rischio",
+    "La probabilità di non neutralità al rischio",
+    "La probabilità di abbandonare il progetto",
+    "Il VAN esteso"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come viene definito l'Expected Shortfall",
+  "answers": [
+    "Valore atteso di tutte le perdite eccedenti il VAR",
+    "Valore atteso di tutte le perdite eccedenti il VAN",
+    "Valore atteso di tutte le perdite inferiori al VAN",
+    "Valore atteso di tutte le perdite inferiori al VAR"
+  ],
+  "correct": 0
+},
+{
+  "question": "Che cosa si intende per \"indifferenza al rischio\" nella valutazione delle opzioni",
+  "answers": [
+    "Il rendimento atteso di un'azione deve essere uguale al tasso di interesse privo di rischio",
+    "Il rendimento atteso di un'azione deve essere uguale al tasso di interesse privo di rischio + il prezzo di mercato",
+    "Agli investitori piace correre qualche rischio in più per ottenere un profitto maggiore",
+    "Agli investitori non interessa indebitarsi"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nel caso di real options, da cosa è dato il valore del progetto",
+  "answers": [
+    "VAN + OPZIONE",
+    "VAN X DURATA",
+    "VAN + AZIONE",
+    "VAN - AZIONE"
+  ],
+  "correct": 0
+},
+{
+  "question": "A cosa corrisponde il numero di Nepero",
+  "answers": [
+    "2.718",
+    "2.618",
+    "2.518",
+    "2.418"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per controllo qualitativo",
+  "answers": [
+    "Il controllo si fondava sul rispetto delle normative e su un controllo ispettivo degli organi di vigilanza",
+    "Il controllo si fondava su un controllo qualitativo degli organi di vigilanza",
+    "Il controllo si fonda sul rispetto di indicatori che rapportano il patrimonio di vigilanza agli investimenti bancari",
+    "Il controllo si fonda sul rispetto di norme quali-quantitative"
+  ],
+  "correct": 0
+},
+{
+  "question": "Relativamente al denominatore del risk based capital ratio in Basilea I, il coefficiente di ponderazione per i governi centrali era",
+  "answers": [
+    "10%",
+    "0%",
+    "20%",
+    "50%"
+  ],
+  "correct": 1
+},
+{
+  "question": "Nello Standardised Approach, a quanto corrisponde il Beta della business line Corporate finance",
+  "answers": [
+    "18%",
+    "15%",
+    "12%",
+    "18%"
+  ],
+  "correct": 3
+},
+{
+  "question": "Secondo la visione stakeholder-friendly culture dell'azienda, quanti sono i bisogni degli stakeholder",
+  "answers": [
+    "10",
+    "12",
+    "5",
+    "6"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa rappresenta la specificity",
+  "answers": [
+    "La % di imprese insolventi correttamente identificate",
+    "La % di imprese sane correttamente identificate",
+    "La % di imprese insolventi erroneamente identificate",
+    "La % di imprese sane erroneamente identificate come insolventi"
+  ],
+  "correct": 1
+},
+{
+  "question": "In quale contesto nascono i modelli di credit scoring",
+  "answers": [
+    "Nel contesto del credito al consumo",
+    "Nel contesto del mercato creditizio",
+    "Nel contesto dell'intermediazione mobiliare",
+    "Nel contesto dell'intermediazione assicurativa"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quanti sono gli indici di bilancio considerati nel modello dello Z-score",
+  "answers": [
+    "8",
+    "7",
+    "6",
+    "5"
+  ],
+  "correct": 3
+},
+{
+  "id": 46,
+  "question": "Che cosa si intende per funzione di copertura dei derivati",
+  "options": [
+    "L'utilizzo è dettato dalla necessità di preservare il valore del sottostante da variazioni avverse delle variabili finanziarie",
+    "L'utilizzo è dettato dalla necessità di aumentare l'esposizione al rischio dal momento che non si è assunta alcuna posizione sul sottostante",
+    "Il sottoscrittore effettua operazioni di segno opposto al fine di ricavarne un profitto avendo colto delle differenze tra il prezzo a pronti e il prezzo a termine del sottostante",
+    "Il sottoscrittore effettua operazioni a copertura dei bisogni: in particolare, nella sfera della gestione congiunta del risparmio a medio-lungo termine e della copertura di rischi puri"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": 47,
+  "question": "Cosa si intende per opzione put",
+  "options": [
+    "Diritto di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Diritto di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Obbligo di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
+    "Obbligo di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": 48,
+  "question": "In un mercato perfetto ed efficiente, cosa accade quando il debito diventa alto e rischioso",
+  "options": [
+    "L'azienda passa dagli azionisti agli obbligazionisti",
+    "L'azienda passa dagli obbligazionisti agli azionisti",
+    "L'azienda resta in mano agli obbligazionisti",
+    "L'azienda resta in mano agli azionisti"
+  ],
+  "answerIndex": 0
+},
+{
+  "id": 49,
+  "question": "Cosa si intende per dividendo ordinario",
+  "options": [
+    "Dividendo la cui erogazione probabilmente non sarà ripetuta",
+    "Dividendo che gli investitori si aspettano di continuare a ricevere nel futuro",
+    "Dividendo dovuto al nuovo ingresso di un azionista",
+    "Dividendo in azioni"
+  ],
+  "answerIndex": 1
+},
+{
+  "id": 50,
+  "question": "Riguardo la politica dei dividendi, cosa afferma il partito di centro",
+  "options": [
+    "Ritengono che un aumento dei dividendi contribuisca a diminuire il valore dell'impresa",
+    "Ritengono che un aumento dei dividendi contribuisca ad aumentare il valore dell'impresa",
+    "Ritengono che le diverse politiche di dividendo siano indifferenti",
+    "Ritengono che i dividendi migliorano le performance aziendali"
+  ],
+  "answerIndex": 2
+}
+  
+  
