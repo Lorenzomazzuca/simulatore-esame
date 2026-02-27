@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Come funzionano gli ETF?",
+    "answers": [
+      "Sono fondi chiusi riservati a investitori istituzionali",
+      "Replicano l'andamento di un indice e sono negoziati in borsa",
+      "Non possono essere negoziati in borsa",
+      "Sono sempre gestiti attivamente"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Che cos’è una opzione put?",
+    "answers": [
+      "Diritto di acquistare un’azione a un prezzo prefissato",
+      "Diritto di vendere un’azione a un prezzo prefissato",
+      "Obbligo di acquistare un’azione a un prezzo prefissato",
+      "Obbligo di vendere un’azione a un prezzo prefissato"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Uno zero coupon bond:",
+    "answers": [
+      "Paga cedole periodiche",
+      "È un titolo perpetuo",
+      "Non paga cedole e rimborsa a scadenza",
+      "Ha sempre rendimento nullo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Nel CAPM, il premio per il rischio di mercato è:",
+    "answers": [
+      "Rf − Rm",
+      "Rm − Rf",
+      "Beta × Rf",
+      "Solo Beta"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Black & Scholes pubblicarono il modello nel:",
+    "answers": [
+      "1963",
+      "1973",
+      "1983",
+      "1993"
+    ],
+    "correct": 1
+  }
+]
