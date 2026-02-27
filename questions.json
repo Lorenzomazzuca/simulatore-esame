@@ -644,60 +644,56 @@
   ],
   "correct": 3
 },
-{
-  "id": 46,
+  {
   "question": "Che cosa si intende per funzione di copertura dei derivati",
-  "options": [
+  "answers": [
     "L'utilizzo è dettato dalla necessità di preservare il valore del sottostante da variazioni avverse delle variabili finanziarie",
     "L'utilizzo è dettato dalla necessità di aumentare l'esposizione al rischio dal momento che non si è assunta alcuna posizione sul sottostante",
     "Il sottoscrittore effettua operazioni di segno opposto al fine di ricavarne un profitto avendo colto delle differenze tra il prezzo a pronti e il prezzo a termine del sottostante",
     "Il sottoscrittore effettua operazioni a copertura dei bisogni: in particolare, nella sfera della gestione congiunta del risparmio a medio-lungo termine e della copertura di rischi puri"
   ],
-  "answerIndex": 0
+  "correct": 0
 },
 {
-  "id": 47,
   "question": "Cosa si intende per opzione put",
-  "options": [
+  "answers": [
     "Diritto di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
     "Diritto di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
     "Obbligo di acquisto di un titolo ad un determinato prezzo e ad (o entro) una determinata data",
     "Obbligo di vendita di un titolo ad un determinato prezzo e ad (o entro) una determinata data"
   ],
-  "answerIndex": 0
+  "correct": 0
 },
 {
-  "id": 48,
   "question": "In un mercato perfetto ed efficiente, cosa accade quando il debito diventa alto e rischioso",
-  "options": [
+  "answers": [
     "L'azienda passa dagli azionisti agli obbligazionisti",
     "L'azienda passa dagli obbligazionisti agli azionisti",
     "L'azienda resta in mano agli obbligazionisti",
     "L'azienda resta in mano agli azionisti"
   ],
-  "answerIndex": 0
+  "correct": 0
 },
 {
-  "id": 49,
   "question": "Cosa si intende per dividendo ordinario",
-  "options": [
+  "answers": [
     "Dividendo la cui erogazione probabilmente non sarà ripetuta",
     "Dividendo che gli investitori si aspettano di continuare a ricevere nel futuro",
     "Dividendo dovuto al nuovo ingresso di un azionista",
     "Dividendo in azioni"
   ],
-  "answerIndex": 1
+  "correct": 1
 },
 {
-  "id": 50,
   "question": "Riguardo la politica dei dividendi, cosa afferma il partito di centro",
-  "options": [
+  "answers": [
     "Ritengono che un aumento dei dividendi contribuisca a diminuire il valore dell'impresa",
     "Ritengono che un aumento dei dividendi contribuisca ad aumentare il valore dell'impresa",
     "Ritengono che le diverse politiche di dividendo siano indifferenti",
     "Ritengono che i dividendi migliorano le performance aziendali"
   ],
-  "answerIndex": 2
+  "correct": 2
 }
-  
+]
+
   
