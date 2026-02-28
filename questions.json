@@ -993,6 +993,306 @@
     "Limitando l'accesso agli strumenti finanziari più rischiosi"
   ],
   "correct": 1
+},
+{
+  "question": "Riguardo la politica dei dividendi, cosa affermano i conservatori",
+  "answers": [
+    "Ritengono che un aumento dei dividendi contribuisca a diminuire il valore dell'impresa",
+    "Ritengono che un aumento dei dividendi contribuisca ad aumentare il valore dell'impresa",
+    "Ritengono che le diverse politiche di dividendo siano indifferenti",
+    "Ritengono che i dividendi migliorano le performance aziendali"
+  ],
+  "correct": 1
+},
+{
+  "question": "Secondo M&M e in un mercato perfetto ed efficiente, la leva finanziaria ha effetto sulla ricchezza degli azionisti",
+  "answers": [
+    "No",
+    "Sì",
+    "Solo in alcuni casi",
+    "Sì, perché cambia il rendimento delle attività"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa sono le obbligazioni plain vanilla",
+  "answers": [
+    "Le obbligazioni ordinarie",
+    "Le obbligazioni privilegiate",
+    "Le obbligazioni subordinate",
+    "Le obbligazioni con warrant"
+  ],
+  "correct": 0
+},
+{
+  "question": "Secondo il CAPM, il premio per il rischio di mercato è",
+  "answers": [
+    "Opposto al beta",
+    "Proporzionale al beta",
+    "Proporzionale al tasso risk free",
+    "Incorrelato rispetto al rendimento dell'equity"
+  ],
+  "correct": 1
+},
+{
+  "question": "In un mercato perfetto ed efficiente, cosa accade quando il debito diventa alto e rischioso",
+  "answers": [
+    "L'azienda passa dagli azionisti agli obbligazionisti",
+    "L'azienda passa dagli obbligazionisti agli azionisti",
+    "L'azienda resta in mano agli obbligazionisti",
+    "L'azienda resta in mano agli azionisti"
+  ],
+  "correct": 0
+},
+{
+  "question": "Gli interessi pagati sul debito dell'impresa possono essere dedotti dal reddito imponibile",
+  "answers": [
+    "Sì",
+    "No",
+    "Solo in determinati casi",
+    "Solo se vengono distribuiti dividendi"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nelle condizioni di M&M, è possibile calcolare il Beta del debito mediante il CAPM",
+  "answers": [
+    "L'affermazione è falsa",
+    "L'affermazione è vera",
+    "No, è possibile calcolare solo il rendimento dell'equity",
+    "No, è possibile calcolare solo il rendimento delle attività"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quanti sono i principali tipi di derivati",
+  "answers": [
+    "2",
+    "3",
+    "8",
+    "4"
+  ],
+  "correct": 3
+},
+{
+  "question": "Se non dispongo di una put sul mercato, posso costruirla in casa. In che modo",
+  "answers": [
+    "Acquisto di una call + valore attuale del prezzo di esercizio - prezzo dell'azione",
+    "Acquisto di una call - valore attuale del prezzo di esercizio - prezzo dell'azione",
+    "Acquisto di una call + valore attuale del prezzo di esercizio + prezzo dell'azione",
+    "Acquisto di una call - valore attuale del prezzo di esercizio + prezzo dell'azione"
+  ],
+  "correct": 0
+},
+{
+  "question": "A cosa corrisponde il risk based capital ratio",
+  "answers": [
+    "Rischio operativo x rischio di credito",
+    "Patrimonio di vigilanza x RWA",
+    "Capitale contabile / RWA",
+    "Patrimonio di vigilanza / RWA"
+  ],
+  "correct": 3
+},
+{
+  "question": "Come può essere definito lo shadow banking system",
+  "answers": [
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti all'interno del sistema bancario ma con differenti regole",
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti al di fuori del normale sistema bancario",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamento",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamenti esclusivamente a lungo termine"
+  ],
+  "correct": 1
+},
+{
+  "question": "Secondo la visione stakeholder-friendly culture dell'azienda, quanti sono i bisogni degli stakeholder",
+  "answers": [
+    "10",
+    "12",
+    "5",
+    "6"
+  ],
+  "correct": 3
+},
+{
+  "question": "Quali delle seguenti affermazioni fa riferimento all'approccio default mode del rischio di credito",
+  "answers": [
+    "Il verificarsi dell'evento default è determinato esclusivamente dalla probabilità di default della variabile binaria associata",
+    "Viene considerato il rischio di migrazione",
+    "Lo stato di default rappresenta uno dei possibili stati e la migrazione in tale stato coincide con l'evento insolvenza",
+    "Il deterioramento del merito creditizio della controparte rappresenta una fonte di rischio di credito"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa rappresenta la specificity",
+  "answers": [
+    "La percentuale di imprese insolventi correttamente identificate",
+    "La percentuale di imprese sane correttamente identificate",
+    "La percentuale di imprese insolventi erroneamente identificate",
+    "La percentuale di imprese sane erroneamente identificate come insolventi"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quante banche prende in considerazione lo stress test 2016",
+  "answers": [
+    "21",
+    "31",
+    "41",
+    "51"
+  ],
+  "correct": 3
+},
+{
+  "question": "A cosa corrisponde la soglia Zccc",
+  "answers": [
+    "Soglia al di sotto della quale gli AVR determinano il fallimento dell'impresa",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_def e z_CCC",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_def e z_BBB",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_BBB e z_CCC"
+  ],
+  "correct": 1
+},
+{
+  "question": "Nel Creditmetrics, quante sono le fasi delle simulazioni Montecarlo",
+  "answers": [
+    "Quattro",
+    "Cinque",
+    "Sei",
+    "Sette"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nel Creditmetrics, qual è la terza fase delle simulazioni Montecarlo",
+  "answers": [
+    "Calcolo del valore futuro dell'esposizione attraverso un'opportuna curva dei tassi forward e in funzione della classe di rating assegnata",
+    "Valutazione del portafoglio in corrispondenza di ogni scenario",
+    "Calcolo del valore futuro del portafoglio nello scenario sommando i valori di tutte le N posizioni",
+    "Simulazione di vari scenari che possono verificarsi in un dato orizzonte temporale"
+  ],
+  "correct": 0
+},
+{
+  "question": "Il CreditPortfolioView utilizza variabili macroeconomiche come",
+  "answers": [
+    "Tasso di risparmio, PIL, Non performing loans",
+    "Tasso di risparmio, PIL, Tasso di occupazione, Livello dei tassi di interesse",
+    "Rischio Paese, PIL, Tasso di occupazione, Livello dei tassi di interesse",
+    "Rischio Paese, Rischio specifico, Tasso di occupazione, Livello dei tassi di interesse"
+  ],
+  "correct": 1
+},
+{
+  "question": "Formula della perdita in caso di insolvenza del debitore i-esimo",
+  "answers": [
+    "LGD x EAD",
+    "LGD x PD",
+    "LGD x RR",
+    "LGD x (1-RR)"
+  ],
+  "correct": 0
+},
+{
+  question: "Nell'ambito del CreditRisk+, il default del debitore X potrebbe dipendere al 90% dal settore dell'industria (k=1) e al 10% da quello dei servizi (k=2). In tal caso, a quanto corrisponde δ_{i2}?",
+  answers: [
+    "0.1",
+    "0,9",
+    "10",
+    "90"
+  ],
+  correct: 0
+},
+{
+  question: "Cosa sono i futures",
+  answers: [
+    "contratti di compravendita a pronti",
+    "Contratti di acquisto di una merce o di un'attività finanziaria, in una data futura, a un prezzo non ancora stabilito",
+    "Contratti di acquisto di una merce o di un'attività finanziaria, in una data futura, a un prezzo fissato oggi",
+    "Scambio fra due parti delle loro esposizioni al rischio, per esempio relativamente a posizioni in valuta, a tassi di interesse o insolvenze dei debitori"
+  ],
+  correct: 2
+},
+{
+  question: "Cosa si intende per rischio di cambio",
+  answers: [
+    "Rischio derivante dalle variazioni dei tassi di cambio reali",
+    "Rischio che deriva dalle variazioni dei tassi di cambio",
+    "Rischio che i prezzi delle obbligazioni scendano come conseguenza del movimento dei tassi di interesse",
+    "Rischio che i prezzi dei BOT scendano come conseguenza del movimento dei tassi di interesse"
+  ],
+  correct: 1
+},
+{
+  question: "Qual è una caratteristica principale dell'operazione di smobilizzo dei crediti commerciali",
+  answers: [
+    "Richiede la cessione del credito salvo buon fine",
+    "Non permette l'anticipo di somme",
+    "Si basa su un interesse composto",
+    "È esente da costi aggiuntivi"
+  ],
+  correct: 0
+},
+{
+  question: "Qual è la funzione della duration nel contesto dei titoli di debito",
+  answers: [
+    "Misura il rischio di credito del titolo",
+    "Indica il tempo medio necessario per recuperare l'investimento attraverso le cedole",
+    "Calcola il rendimento totale del titolo alla scadenza",
+    "Valuta l'effetto dell'inflazione sui rendimenti futuri del titolo"
+  ],
+  correct: 1
+},
+{
+  question: "Qual è il vantaggio della gestione collettiva del risparmio",
+  answers: [
+    "Permette di investire in asset non disponibili individualmente",
+    "Limita la diversificazione per ridurre i costi",
+    "Garantisce rendimenti fissi",
+    "Consente solo investimenti a breve termine"
+  ],
+  correct: 0
+},
+{
+  question: "Quali sono i compiti della banca depositaria in un fondo comune",
+  answers: [
+    "Solo deposito dei fondi raccolti",
+    "Custodia delle risorse e attività di controllo sulle operazioni della SGR",
+    "Gestione attiva del fondo",
+    "Emissione di nuove quote"
+  ],
+  correct: 1
+},
+{
+  question: "Quali vantaggi offre l'investimento tramite fondi flessibili",
+  answers: [
+    "Riduzione del rischio tramite diversificazione",
+    "Investimenti garantiti in titoli di stato",
+    "Limitazione degli investimenti a una singola classe di asset",
+    "Nessuna diversificazione è possibile"
+  ],
+  correct: 0
+},
+{
+  question: "Cosa implica il servizio di esecuzione di ordini per conto dei clienti",
+  answers: [
+    "Il broker esegue transazioni basate sui propri consigli finanziari",
+    "Il broker negozia solo in titoli che possiede",
+    "Il broker consulta solo ordini di alto valore",
+    "Il broker esegue ordini precisamente come diretti senza consulenza"
+  ],
+  correct: 3
+},
+{
+  question: "Qual è il ruolo principale di un market maker nel sistema di negoziazione",
+  answers: [
+    "Vendere titoli al prezzo più alto possibile",
+    "Comprare titoli senza intento di rivendita",
+    "Garantire la liquidità del mercato mantenendo offerte di acquisto e vendita",
+    "Operare esclusivamente su azioni non liquide"
+  ],
+  correct: 2
 }
 ]
 
