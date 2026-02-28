@@ -893,6 +893,106 @@
     "12"
   ],
   "correct": 2
+},
+{
+  "question": "Quanto era il rendimento atteso del fondo Atlante",
+  "answers": [
+    "0.05%",
+    "0.06%",
+    "0.06%",
+    "0.07%"
+  ],
+  "correct": 2
+},
+{
+  "question": "Come viene calcolato il valore attuale del titolo in caso di default",
+  "answers": [
+    "EAD x PD",
+    "EAD x RR",
+    "EAD / RR",
+    "PD x M"
+  ],
+  "correct": 1
+},
+{
+  "question": "In riferimento alla classe unsecured secured, qual è il tasso di recupero",
+  "answers": [
+    "51,13",
+    "53,80",
+    "38,52",
+    "32,74"
+  ],
+  "correct": 0
+},
+{
+  "question": "In caso di un'obbligazione BBB, cosa succede se gli AVR sono superiori a zAA",
+  "answers": [
+    "Ci sarà un downgrading in CCC",
+    "Ci sarà un upgrading in AAA",
+    "Non ci sarà alcun cambiamento",
+    "L'impresa sarà in default"
+  ],
+  "correct": 1
+},
+{
+  "question": "Nell'ambito del CreditRisk+, cosa indica il parametro 5ØiP",
+  "answers": [
+    "Il numero di insolvenze atteso",
+    "La probabilità di insolvenza condizionata",
+    "La somma di tutti i valori delle LGD medie dei clienti in portafoglio",
+    "La somma di tutti i valori delle EAD medie dei clienti in portafoglio"
+  ],
+  "correct": 0
+},
+{
+  "question": "Formula della perdita in caso di insolvenza del debitore i-esimo",
+  "answers": [
+    "LGD x EAD",
+    "LGD x PD",
+    "LGD x RR",
+    "LGD x (1-RR)"
+  ],
+  "correct": 0
+},
+{
+  "question": "I contratti forward sono",
+  "answers": [
+    "Contratti di compravendita a pronti",
+    "Contratti di compravendita a termine",
+    "Contratto di acquisto di una merce o di un'attività finanziaria, in una data futura, a un prezzo fissato oggi",
+    "Scambio fra due parti delle loro esposizioni al rischio"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per esposizione economica",
+  "answers": [
+    "Rischio derivante dalle variazioni dei tassi di cambio reali",
+    "Rischio che deriva dalle variazioni dei tassi di cambio",
+    "Rischio che i prezzi delle obbligazioni scendano come conseguenza del movimento dei tassi di interesse",
+    "Rischio che i prezzi dei BOT scendano come conseguenza del movimento dei tassi di interesse"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quando i tassi di interesse diminuiscono, i prezzi delle obbligazioni",
+  "answers": [
+    "Aumentano",
+    "Diminuiscono",
+    "Restano invariati",
+    "Si annullano"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come il processo di rating aiuta gli investitori",
+  "answers": [
+    "Fornendo solamente dati storici sulle performance passate",
+    "Offrendo analisi e valutazioni rischio-rendimento degli strumenti finanziari",
+    "Assicurando un rendimento minimo sugli investimenti",
+    "Limitando l'accesso agli strumenti finanziari più rischiosi"
+  ],
+  "correct": 1
 }
 ]
 
