@@ -693,6 +693,106 @@
     "Ritengono che i dividendi migliorano le performance aziendali"
   ],
   "correct": 2
+},
+{
+  "question": "In un mercato perfetto ed efficiente, cosa accade quando il debito diventa alto e rischioso",
+  "answers": [
+    "L'azienda passa dagli azionisti agli obbligazionisti",
+    "L'azienda passa dagli obbligazionisti agli azionisti",
+    "L'azienda resta in mano agli obbligazionisti",
+    "L'azienda resta in mano agli azionisti"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nelle condizioni di M&M, è possibile calcolare il Beta del debito mediante il CAPM",
+  "answers": [
+    "L'affermazione è falsa",
+    "L'affermazione è vera",
+    "No, è possibile calcolare solo il rendimento dell'equity",
+    "No, è possibile calcolare solo il rendimento delle attività"
+  ],
+  "correct": 1
+},
+{
+  "question": "Qual è l'intercetta della linea del mercato dei capitali (capital market line)",
+  "answers": [
+    "Indice di Pearson",
+    "Rendimento del mercato",
+    "Tasso risk free",
+    "Indice di Sharpe"
+  ],
+  "correct": 2
+},
+{
+  "question": "Secondo M&M e in un mercato perfetto ed efficiente, la leva finanziaria ha effetto sulla ricchezza degli azionisti?",
+  "answers": [
+    "No",
+    "Sì",
+    "Solo in alcuni casi",
+    "Sì, perché cambia il rendimento delle attività"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per portafogli efficienti",
+  "answers": [
+    "Portafogli composti esclusivamente da titoli obbligazionari",
+    "Portafogli che esprimono la combinazione rischio/rendimento migliore, ossia massimizzano il rischio a parità di rendimento e minimizzano il rendimento a parità di rischio",
+    "Portafogli che esprimono la combinazione rischio/rendimento migliore, ossia minimizzano il rischio a parità di rendimento e massimizzano il rendimento a parità di rischio",
+    "Portafogli composti solamente da titoli azionari"
+  ],
+  "correct": 2
+},
+{
+  "question": "Qual è il limite della teoria di Markowitz",
+  "answers": [
+    "Considera solo i titoli privi di rischio",
+    "Non considera i titoli privi di rischio",
+    "Considera solo i BOT",
+    "Ipotizza mercati efficienti"
+  ],
+  "correct": 1
+},
+{
+  "question": "Nel caso di interesse composto",
+  "answers": [
+    "Gli interessi maturati ogni anno sono reinvestiti al fine di ottenere più interessi nel periodo successivo",
+    "L'interesse è calcolato soltanto sull'investimento iniziale",
+    "Più a lungo sono investiti i fondi, minori sono i vantaggi dell'interesse",
+    "Gli interessi maturati ogni due anni sono reinvestiti al fine di ottenere più interessi nel periodo successivo"
+  ],
+  "correct": 0
+},
+{
+  "question": "Che valori può assumere il coefficiente di correlazione",
+  "answers": [
+    "Solo valori negativi",
+    "Solo valori positivi",
+    "Varia tra -1 e 0",
+    "Varia tra -1 e 1"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa si intende per il principio del comparabile",
+  "answers": [
+    "Metodo che permette di valutare il terminal value di un'azienda basandosi su imprese simili",
+    "Metodo che permette di confrontare imprese operanti nello stesso settore",
+    "Metodo che permette di confrontare indici azionari di imprese dello stesso settore",
+    "Metodo che permette di confrontare indici azionari di imprese operanti in settori diversi"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per il principio del comparabile",
+  "answers": [
+    "Rapporto tra il prezzo di un'azione e l'utile generato dalla stessa azione",
+    "Valore netto della società secondo il bilancio di esercizio",
+    "Valore di un'azienda che vende i propri cespiti attivi, al netto delle passività esistenti",
+    "Valore basato sul fair value delle attività e delle passività"
+  ],
+  "correct": 2
 }
 ]
 
