@@ -1195,106 +1195,104 @@
   "correct": 0
 },
 {
-  question: "Nell'ambito del CreditRisk+, il default del debitore X potrebbe dipendere al 90% dal settore dell'industria (k=1) e al 10% da quello dei servizi (k=2). In tal caso, a quanto corrisponde δ_{i2}?",
-  answers: [
+  "question": "Nell'ambito del CreditRisk+, il default del debitore X potrebbe dipendere al 90% dal settore dell'industria (k=1) e al 10% da quello dei servizi (k=2). In tal caso, a quanto corrisponde δ_{i2}?",
+  "answers": [
     "0.1",
     "0,9",
     "10",
     "90"
   ],
-  correct: 0
+  "correct": 0
 },
 {
-  question: "Cosa sono i futures",
-  answers: [
+  "question": "Cosa sono i futures",
+  "answers": [
     "contratti di compravendita a pronti",
     "Contratti di acquisto di una merce o di un'attività finanziaria, in una data futura, a un prezzo non ancora stabilito",
     "Contratti di acquisto di una merce o di un'attività finanziaria, in una data futura, a un prezzo fissato oggi",
     "Scambio fra due parti delle loro esposizioni al rischio, per esempio relativamente a posizioni in valuta, a tassi di interesse o insolvenze dei debitori"
   ],
-  correct: 2
+  "correct": 2
 },
 {
-  question: "Cosa si intende per rischio di cambio",
-  answers: [
+  "question": "Cosa si intende per rischio di cambio",
+  "answers": [
     "Rischio derivante dalle variazioni dei tassi di cambio reali",
     "Rischio che deriva dalle variazioni dei tassi di cambio",
     "Rischio che i prezzi delle obbligazioni scendano come conseguenza del movimento dei tassi di interesse",
     "Rischio che i prezzi dei BOT scendano come conseguenza del movimento dei tassi di interesse"
   ],
-  correct: 1
+  "correct": 1
 },
 {
-  question: "Qual è una caratteristica principale dell'operazione di smobilizzo dei crediti commerciali",
-  answers: [
+  "question": "Qual è una caratteristica principale dell'operazione di smobilizzo dei crediti commerciali",
+  "answers": [
     "Richiede la cessione del credito salvo buon fine",
     "Non permette l'anticipo di somme",
     "Si basa su un interesse composto",
     "È esente da costi aggiuntivi"
   ],
-  correct: 0
+  "correct": 0
 },
 {
-  question: "Qual è la funzione della duration nel contesto dei titoli di debito",
-  answers: [
+  "question": "Qual è la funzione della duration nel contesto dei titoli di debito",
+  "answers": [
     "Misura il rischio di credito del titolo",
     "Indica il tempo medio necessario per recuperare l'investimento attraverso le cedole",
     "Calcola il rendimento totale del titolo alla scadenza",
     "Valuta l'effetto dell'inflazione sui rendimenti futuri del titolo"
   ],
-  correct: 1
+  "correct": 1
 },
 {
-  question: "Qual è il vantaggio della gestione collettiva del risparmio",
-  answers: [
+  "question": "Qual è il vantaggio della gestione collettiva del risparmio",
+  "answers": [
     "Permette di investire in asset non disponibili individualmente",
     "Limita la diversificazione per ridurre i costi",
     "Garantisce rendimenti fissi",
     "Consente solo investimenti a breve termine"
   ],
-  correct: 0
+  "correct": 0
 },
 {
-  question: "Quali sono i compiti della banca depositaria in un fondo comune",
-  answers: [
+  "question": "Quali sono i compiti della banca depositaria in un fondo comune",
+  "answers": [
     "Solo deposito dei fondi raccolti",
     "Custodia delle risorse e attività di controllo sulle operazioni della SGR",
     "Gestione attiva del fondo",
     "Emissione di nuove quote"
   ],
-  correct: 1
+  "correct": 1
 },
 {
-  question: "Quali vantaggi offre l'investimento tramite fondi flessibili",
-  answers: [
+  "question": "Quali vantaggi offre l'investimento tramite fondi flessibili",
+  "answers": [
     "Riduzione del rischio tramite diversificazione",
     "Investimenti garantiti in titoli di stato",
     "Limitazione degli investimenti a una singola classe di asset",
     "Nessuna diversificazione è possibile"
   ],
-  correct: 0
+  "correct": 0
 },
 {
-  question: "Cosa implica il servizio di esecuzione di ordini per conto dei clienti",
-  answers: [
+  "question": "Cosa implica il servizio di esecuzione di ordini per conto dei clienti",
+  "answers": [
     "Il broker esegue transazioni basate sui propri consigli finanziari",
     "Il broker negozia solo in titoli che possiede",
     "Il broker consulta solo ordini di alto valore",
     "Il broker esegue ordini precisamente come diretti senza consulenza"
   ],
-  correct: 3
+  "correct": 3
 },
 {
-  question: "Qual è il ruolo principale di un market maker nel sistema di negoziazione",
-  answers: [
+  "question": "Qual è il ruolo principale di un market maker nel sistema di negoziazione",
+  "answers": [
     "Vendere titoli al prezzo più alto possibile",
     "Comprare titoli senza intento di rivendita",
     "Garantire la liquidità del mercato mantenendo offerte di acquisto e vendita",
     "Operare esclusivamente su azioni non liquide"
   ],
-  correct: 2
+  "correct": 2
 }
 ]
-
-
   
