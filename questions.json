@@ -1883,6 +1883,306 @@
     "Ipotizza mercati efficienti"
   ],
   "correct": 1
+},
+{
+  "question": "Come viene calcolato il valore attuale (VA) di un titolo di debito",
+  "answers": [
+    "Attraverso la somma dei flussi di cassa futuri senza scontarli",
+    "Scontando i flussi di cassa futuri al TRES",
+    "Moltiplicando il valore nominale per il tasso cedolare",
+    "Sommando il valore nominale e le cedole future"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa indica un prezzo di un titolo di debito \"sopra la pari\"",
+  "answers": [
+    "Che il titolo è stato emesso con uno sconto",
+    "Che il titolo viene venduto a un prezzo inferiore al valore nominale",
+    "Che il titolo viene venduto a un prezzo superiore al valore nominale",
+    "Che il titolo ha maturato cedole non pagate"
+  ],
+  "correct": 2
+},
+{
+  "question": "Le caratteristiche di trasferibilità di un titolo azionario rientrano nella classificazione economica degli strumenti finanziari per:",
+  "answers": [
+    "Natura del rischio",
+    "Natura dei bisogni soddisfatti",
+    "Eticità",
+    "Trattamento fiscale"
+  ],
+  "correct": 1
+},
+{
+  "question": "I Covered Bond generalmente offrono:",
+  "answers": [
+    "Un rendimento maggiore rispetto ad altre obbligazioni",
+    "Un rendimento minore per la raccolta a basso costo",
+    "La garanzia solo da impieghi speculativi",
+    "Nessun obbligo di rimborso"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quali delle seguenti affermazioni riguardanti il portfolioManager non è corretta",
+  "answers": [
+    "L’approccio KMV non simula l’intera distribuzione di perdita a scadenza ma utilizza un’approssimazione analitica",
+    "La distribuzione dei possibili eventi è binomiale",
+    "Nel caso di portafogli di grandi dimensioni questo permette di ridurre il peso computazionale del modello",
+    "Ci si concentra sulle perdite connesse ai default e alle migrazioni"
+  ],
+  "correct": 3
+},
+{
+  "question": "Gli strumenti finanziari includono depositi bancari e prestiti come esempi di:",
+  "answers": [
+    "Secondary securities",
+    "Derivati finanziari",
+    "Primary securities",
+    "Circuiti diretti"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nel Creditmetrics, quante sono le fasi delle simulazioni Montecarlo",
+  "answers": [
+    "quattro",
+    "cinque",
+    "sei",
+    "sette"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nell'ambito del portfoliomanager, come viene suddiviso il rischio sistematico",
+  "answers": [
+    "Rischio specifico settoriale e fattori di rischio sistematico",
+    "Rischio settoriale e rischio Paese",
+    "Fattori economici globali e fattori geografici",
+    "Rischio specifico settoriale e fattori settoriali"
+  ],
+  "correct": 1
+},
+{
+  "question": "I fondi aperti hanno un numero limitato di partecipanti",
+  "answers": [
+    "I fondi aperti consentono il rimborso delle quote in qualsiasi momento",
+    "I fondi chiusi offrono maggiore flessibilità negli investimenti",
+    "Qual è la differenza tra fondo aperto e fondo chiuso?",
+    "I fondi chiusi non investono in strumenti finanziari"
+  ],
+  "correct": 3
+},
+{
+  "question": "Quali sono le responsabilità di un lead manager in un sindacato di collocamento",
+  "answers": [
+    "Agire come unico venditore dei titoli",
+    "Fornire finanziamenti diretti agli investitori",
+    "Coordinare le attività del consorzio e gestire le relazioni con il cliente",
+    "Operare indipendentemente dagli altri membri del consorzio"
+  ],
+  "correct": 2
+},
+{
+  "question": "Dove trova copertura la perdita attesa",
+  "answers": [
+    "Patrimonio di vigilanza",
+    "Ammortamenti e rettifiche",
+    "Patrimonio contabile",
+    "Flusso di cassa"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quando è stata sviluppata la teoria della diversità di genere",
+  "answers": [
+    "Negli anni '60",
+    "Negli anni '70",
+    "Negli anni '80",
+    "Negli anni '90"
+  ],
+  "correct": 3
+},
+{
+  "question": "A QUANTO CORRISPONDE LO Z' CUT-OFF",
+  "answers": [
+    "2.675",
+    "2.99",
+    "2.189",
+    "1.875"
+  ],
+  "correct": 0
+},
+{
+  "question": "Di quante fasi consta il processo di CSR",
+  "answers": [
+    "6",
+    "10",
+    "9",
+    "4"
+  ],
+  "correct": 3
+},
+{
+  "question": "Che cosa si intende per informazione derivata",
+  "answers": [
+    "Rielaborazione dell’informazione primaria e comparazione con quella dell'anno precedente",
+    "Rielaborazione dell’informazione primaria e comparazione con quella relativa al settore di appartenenza",
+    "Rielaborazione dell’informazione primaria e comparazione con quella derivata da altri settori",
+    "Rielaborazione dell’informazione primaria e comparazione con quella bancaria"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quanti sono gli indici di bilancio considerati nel modello dello Z-score",
+  "answers": [
+    "8",
+    "7",
+    "6",
+    "5"
+  ],
+  "correct": 3
+},
+{
+  "question": "Quale metodologia per il calcolo del rischio di mercato ipotizza la full valuation",
+  "answers": [
+    "Il VAR",
+    "Matrice varianze-covarianza",
+    "Simulazioni storiche",
+    "Simulazione parametrica"
+  ],
+  "correct": 2
+},
+{
+  "question": "Quando una valuta è considerata significativa",
+  "answers": [
+    "Quando le passività aggregate denominate in tale valuta sono pari o superiori al 5% delle passività totali della banca",
+    "Quando le passività aggregate denominate in tale valuta sono pari o superiori al 10% delle passività totali della banca",
+    "Quando le passività aggregate denominate in tale valuta sono pari al 5% delle passività totali della banca",
+    "Quando le passività aggregate denominate in tale valuta sono pari al 10% delle passività totali della banca"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per controllo qualitativo",
+  "answers": [
+    "Il controllo si fondava sul rispetto delle normative e su un controllo ispettivo degli organi di vigilanza",
+    "Il controllo si fondava su un controllo qualitativo degli organi di vigilanza",
+    "Il controllo si fonda sul rispetto di indicatori che rapportano il patrimonio di vigilanza agli investimenti bancari",
+    "Il controllo si fonda sul rispetto di norme quali-quantitative"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quale tipo di distribuzione si ipotizza nell'approccio parametrico per il calcolo del rischio di mercato",
+  "answers": [
+    "Distribuzione normale",
+    "Distribuzione lognormale",
+    "Distribuzione Poissoniana",
+    "Distribuzione inversa"
+  ],
+  "correct": 0
+},
+{
+  "question": "Per un'opzione europea, il titolare dell'opzione ha il diritto di esercitare l'opzione",
+  "answers": [
+    "Solo alla scadenza",
+    "Solo prima della scadenza",
+    "Prima della scadenza o alla scadenza",
+    "Solo dopo un mese dalla scadenza"
+  ],
+  "correct": 0
+},
+{
+  "question": "Il metodo binomiale consiste nel ridurre le possibili variazioni del prezzo dell'azione a due possibili movimenti. Quali",
+  "answers": [
+    "Verso il basso e verso sinistra",
+    "Verso il basso e verso destra",
+    "Verso l'alto e verso il basso",
+    "Verso l'alto e verso destra"
+  ],
+  "correct": 2
+},
+{
+  "question": "Cosa influenza la variazione della struttura finanziaria",
+  "answers": [
+    "Il rendimento dell'equity",
+    "Il rendimento dell'equity e delle attività",
+    "Il valore di mercato",
+    "Il rendimento delle attività"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come si calcola il profitto per l’acquirente di una put",
+  "answers": [
+    "Prezzo di esercizio - prezzo di mercato dell'azione",
+    "Prezzo di esercizio + prezzo di mercato dell'azione",
+    "Prezzo di mercato - prezzo di esercizio dell'azione",
+    "Prezzo di mercato / prezzo di esercizio dell'azione"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali delle seguenti affermazioni riguardanti le conseguenze fiscali sulle politiche dei dividendi è falsa",
+  "answers": [
+    "Poiché le aliquote di tassazione dei capital gain sono inferiori a quelle dei dividendi, le aziende dovrebbero pagare i minori dividendi possibili",
+    "Se i dividendi sono maggiormente tassati dei capital gain, gli investitori soggetti al pagamento delle imposte dovrebbero vedere di buon occhio una simile mossa e valutare più favorevolmente l’azienda",
+    "Poiché le aliquote di tassazione dei capital gain sono maggiori rispetto a quelle dei dividendi, le aziende dovrebbero pagare i maggiori dividendi possibili",
+    "Poiché le aliquote di tassazione dei capital gain sono minori rispetto a quelle dei dividendi, le aziende dovrebbero pagare i minori dividendi possibili"
+  ],
+  "correct": 2
+},
+{
+  "question": "Cosa si intende per Efficienza in forma semiforte",
+  "answers": [
+    "Le variazioni dei dividendi seguono le variazioni dei profitti sul lungo periodo",
+    "I prezzi di mercato riflettono tutte le informazioni contenute nelle serie storiche dei prezzi passati e tutte le informazioni disponibili al pubblico",
+    "I prezzi di mercato riflettono tutte le informazioni, sia quelle disponibili al pubblico sia quelle a disposizione degli insider",
+    "I prezzi di mercato non riflettono alcun tipo di informazione"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per dividendo ordinario",
+  "answers": [
+    "Dividendo la cui erogazione probabilmente non sarà ripetuta",
+    "Dividendo che gli investitori si aspettano di continuare a ricevere nel futuro",
+    "Dividendo dovuto al nuovo ingresso di un azionista",
+    "Dividendo in azioni"
+  ],
+  "correct": 1
+},
+{
+  "question": "Riguardo la politica dei dividendi, cosa affermano i radicali",
+  "answers": [
+    "Ritengono che un aumento dei dividendi contribuisca a diminuire il valore dell’impresa",
+    "Ritengono che un aumento dei dividendi contribuisca ad aumentare il valore dell’impresa",
+    "Ritengono che le diverse politiche di dividendo siano indifferenti",
+    "Ritengono che i dividendi migliorano le performance aziendali"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per il principio del comparabile",
+  "answers": [
+    "Metodo che permette di valutare il terminal value di un'azienda basandosi su imprese simili",
+    "Metodo che permette di confrontare imprese operanti nello stesso settore",
+    "Metodo che permette di confrontare indici azionari di imprese dello stesso settore",
+    "Metodo che permette di confrontare indici azionari di imprese operanti in settori diversi"
+  ],
+  "correct": 0
+},
+{
+  "question": "Se il tasso di interesse nominale sulle obbligazioni statali a un anno è 5,9% e il tasso di inflazione è 3,3%, qual è il tasso di interesse reale",
+  "answers": [
+    "0%",
+    "0%",
+    "0,03%",
+    "8%"
+  ],
+  "correct": 2
 }
 ]
   
