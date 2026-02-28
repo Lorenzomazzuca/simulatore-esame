@@ -1293,6 +1293,596 @@
     "Operare esclusivamente su azioni non liquide"
   ],
   "correct": 2
-}
+},
+{
+  "question": "Si immagini di acquistare una call con prezzo di esercizio pari a 7, di mettere da parte in un'attività priva di rischio (deposito bancario) una somma di 7 euro e di vendere l'azione a 7 euro. Se il prezzo di mercato dell'azione scende a 6 euro, quanto vale l'opzione call",
+  "answers": [
+    "6",
+    "9",
+    "0",
+    "1"
+  ],
+  "correct": 2
+},
+{
+  "question": "In quale anno Fisher Black e Myron Scholes pubblicarono il modello di valutazione delle opzioni",
+  "answers": [
+    "1983",
+    "1963",
+    "1973",
+    "1986"
+  ],
+  "correct": 2
+},
+{
+  "question": "Nelle condizioni di M&M, è possibile calcolare il Beta delle attività mediante il CAPM",
+  "answers": [
+    "L'affermazione è falsa.",
+    "L'affermazione è vera.",
+    "No, è possibile calcolare solo il rendimento dell'equity",
+    "No, è possibile calcolare solo il rendimento del debito"
+  ],
+  "correct": 1
+},
+{
+  "question": "Come si calcola il delta dell'opzione",
+  "answers": [
+    "Differenza fra i possibili valori dell'opzione / differenza fra i possibili valori dell'azione.",
+    "Differenza fra i possibili valori dell'azione / differenza fra i possibili valori dell'opzione.",
+    "Somma fra i possibili valori dell'azione / differenza fra i possibili valori dell'opzione.",
+    "Somma fra i possibili valori dell'azione / somma fra i possibili valori dell'opzione."
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali delle seguenti affermazioni è vera:",
+  "answers": [
+    "Combinare più titoli all'interno del portafoglio non ha effetti sullo SQM del portafoglio",
+    "Combinare più titoli all'interno del portafoglio può ridurre lo scarto quadratico medio del portafoglio al di sopra della media ponderata dei singoli scarti quadratici medi",
+    "Combinare più titoli all'interno del portafoglio può ridurre il rischio specifico del portafoglio al di sotto della media ponderata dei singoli scarti quadratici medi",
+    "Combinare più titoli all'interno del portafoglio può ridurre lo scarto quadratico medio del portafoglio al di sotto della media ponderata dei singoli scarti quadratici medi"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa introduciamo nella formula del WACC per considerare le imposte",
+  "answers": [
+    "(1-Tc)",
+    "(1+Tc)",
+    "Tc",
+    "La leva finanziaria"
+  ],
+  "correct": 0
+},
+{
+  "question": "L'azione IBM ha un prezzo corrente di euro 12.58. Il dividendo atteso per il prossimo anno è di euro 0.64 per azione, con un rapporto di distribuzione pari all'80%. Il tasso di rendimento richiesto dagli azionisti è pari al 10%. A quanto è uguale il Vaoc:",
+  "answers": [
+    "4,91",
+    "10%",
+    "0,91",
+    "8.90%"
+  ],
+  "correct": 0
+},
+{
+  "question": "Che valori può assumere il coefficiente di correlazione:",
+  "answers": [
+    "Solo valori negativi",
+    "Solo valori positivi",
+    "Varia tra -1 e 0",
+    "Varia tra -1 e 1"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa si intende per valore di liquidazione:",
+  "answers": [
+    "Rapporto tra il prezzo di un'azione e l'utile generato dalla stessa azione",
+    "Valore netto della società secondo il bilancio di esercizio",
+    "Valore di un'azienda che vende i propri cespiti attivi, al netto delle passività esistenti",
+    "Valore basato sul fair value delle attività e delle passività"
+  ],
+  "correct": 2
+},
+{
+  "question": "Da cosa è dato il Tasso di ritenzione degli utili:",
+  "answers": [
+    "Rapporto fra dividendo e utile per azione (EPS)",
+    "1-Plowback Ratio",
+    "1-Payout Ratio",
+    "EPS/capitale netto per azione"
+  ],
+  "correct": 2
+},
+{
+  "question": "In caso di un'obbligazione BBB, se gli attivi aziendali sono compresi tra Zdef e Zccc, quale sarà il rating da assegnare",
+  "answers": [
+    "ccc",
+    "cc",
+    "aa",
+    "aaa"
+  ],
+  "correct": 0
+},
+{
+  "question": "Da chi è stato sviluppato il modello Portfolio manager",
+  "answers": [
+    "da KMV Corporation",
+    "da creditSuisse",
+    "Da Standard & Poor's",
+    "Da Moody's"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quale delle seguenti affermazioni sul Creditmetrics è falsa",
+  "answers": [
+    "Utilizza una variante del modello di Merton",
+    "Stima la correlazione tra gli asset value returns dei due debitori ricavandone una distribuzione di probabilità congiunte",
+    "Si ipotizza che gli attivi aziendali siano finanziati esclusivamente dal capitale azionario",
+    "Default e migrazioni non dipendono dalle variazioni nel valore degli attivi aziendali"
+  ],
+  "correct": 3
+},
+{
+  "question": "A cosa corrisponde la soglia Zdef",
+  "answers": [
+    "Soglia al di sotto della quale gli AVR determinano il fallimento dell'impresa",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_def e z_CCC",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_def e z_BBB",
+    "Soglia in corrispondenza della quale gli AVR sono compresi tra z_BBB e z_CCC"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali delle seguenti affermazioni fa riferimento all'approccio default mode del rischio di credito",
+  "answers": [
+    "Il verificarsi dell'evento default è determinato esclusivamente dalla probabilità di default della variabile binaria associata",
+    "Viene considerato il rischio di migrazione",
+    "Lo stato di default rappresenta uno dei possibili stati e la migrazione in tale stato coincide con l'evento insolvenza",
+    "Il deterioramento del merito creditizio della controparte rappresenta una fonte di rischio di credito"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nello stress test 2011, di quanto diminuisce il CT1 ratio nello scenario avverso",
+  "answers": [
+    "2 punti percentuali",
+    "3 punti percentuali",
+    "3,5 punti percentuali",
+    "1,2 punti percentuali"
+  ],
+  "correct": 3
+},
+{
+  "question": "Quali sono i requisiti di una ECAI",
+  "answers": [
+    "Obiettività e indipendenza; trasparenza e pubblicità delle informazioni; risorse; credibilità",
+    "Obiettività e indipendenza; trasparenza e segretezza delle informazioni; risorse; credibilità",
+    "Obiettività e dipendenza; trasparenza e segretezza delle informazioni; risorse; credibilità",
+    "Obiettività e dipendenza; trasparenza e pubblicità delle informazioni; risorse; credibilità"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quale, fra le seguenti, è un'informazione quantitativa",
+  "answers": [
+    "Immagine e notorietà della marca",
+    "Sistema organizzativo e qualità del sistema informativo aziendale",
+    "Dati settoriali e territoriali",
+    "Attività di R&S"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per opzione di flessibilità",
+  "answers": [
+    "Riguarda la possibilità di aumentare le dimensioni e la struttura del progetto (ad esempio la quantità prodotta di un certo bene)",
+    "Riguarda la possibilità di convertire un progetto; in questo modo l'investimento iniziale non andrebbe del tutto perso",
+    "Riguarda la decisione di ritardare l'avvio di un progetto in attesa",
+    "Riguarda la decisione di interrompere un progetto"
+  ],
+  "correct": 1
+},
+{
+  "question": "In Basilea II, da cosa è formato il Lower Tier 2",
+  "answers": [
+    "Obbligazioni di durata superiore ai dieci anni",
+    "Obbligazioni di durata superiore ai cinque anni",
+    "Obbligazioni di durata superiore ai due anni",
+    "Obbligazioni di un ammontare non superiore al 45% del Tier 2"
+  ],
+  "correct": 1
+},
+{
+  "question": "Come funzionano gli ETF",
+  "answers": [
+    "Investono in un indice e sono gestiti attivamente",
+    "Sono fondi chiusi disponibili solo per investitori istituzionali",
+    "Replicano l'andamento di un indice di mercato",
+    "Non possono essere negoziati in borsa"
+  ],
+  "correct": 2
+},
+{
+  "question": "Quali sono le responsabilità di un lead manager in un sindacato di collocamento",
+  "answers": [
+    "Agire come unico venditore dei titoli",
+    "Fornire finanziamenti diretti agli investitori",
+    "Coordinare le attività del consorzio e gestire le relazioni con il cliente",
+    "Operare indipendentemente dagli altri membri del consorzio"
+  ],
+  "correct": 2
+},
+{
+  "question": "Come il processo di rating aiuta gli investitori?",
+  "answers": [
+    "Fornendo solamente dati storici sulle performance passate",
+    "Offrendo analisi e valutazioni rischio-rendimento degli strumenti finanziari",
+    "Assicurando un rendimento minimo sugli investimenti",
+    "Limitando l'accesso agli strumenti finanziari più rischiosi"
+  ],
+  "correct": 1
+},
+{
+  "question": "Che cos'è il TRES in relazione ai titoli di debito",
+  "answers": [
+    "Il costo iniziale di acquisto del titolo",
+    "Il tasso di interesse nominale del titolo",
+    "Il tasso di rendimento effettivo a scadenza",
+    "Il valore nominale del titolo"
+  ],
+  "correct": 2
+},
+{
+  "question": "La liquidità di un titolo obbligazionario è un fattore critico nel determinare:",
+  "answers": [
+    "Il suo grado di rischio",
+    "La sua capacità di generare un rendimento etico",
+    "La sua natura di debito o di equity",
+    "Le sue caratteristiche di trasferibilità"
+  ],
+  "correct": 3
+},
+{
+  "question": "Secondo i principi contabili internazionali, un derivato è caratterizzato da:",
+  "answers": [
+    "Un investimento netto iniziale significativo",
+    "Cambiamenti di valore legati a una variabile prestabilita senza investimento netto iniziale significativo",
+    "Nessuna scadenza per la regolazione del contratto",
+    "Valori indipendenti da variabili di mercato esterne"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quale delle seguenti affermazioni sui futures è corretta",
+  "answers": [
+    "Chi vuole comprare si mette d'accordo con chi vuole vendere decidendo il prezzo che il compratore pagherà in futuro al venditore, in una data non ancora concordata.",
+    "Si tratta di contratti asimmetrici",
+    "Acquirente e venditore si impegnano a scambiarsi una determinata quantità di una certa attività finanziaria o reale (detta attività sottostante) a un prezzo prefissato e con liquidazione differita a una data futura prestabilita.",
+    "L'operatore che acquista il future assume una posizione short, mentre l'operatore che vende il future assume una posizione long"
+  ],
+  "correct": 2
+},
+{
+  "question": "Con il termine Mark to Market si intende:",
+  "answers": [
+    "Un processo di controllo del rischio, tramite il quale alla fine della giornata la Clearing House valorizza le posizioni su strumenti derivati che risultano ancora aperte",
+    "Un metodo di valutazione che aggiusta in modo sistematico il valore di un contratto o di uno strumento finanziario in relazione ai valori contabili",
+    "Un metodo di valutazione dei contratti forward",
+    "Un metodo di valorizzazione di un derivato effettuata sulla base della quotazione di chiusura di un contratto derivato similare"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quali delle seguenti affermazioni non è corretta",
+  "answers": [
+    "Gli azionisti possono correggere la loro esposizione al rischio, soltanto quando le imprese forniscono informazioni incomplete agli investitori, circa le transazioni effettuate",
+    "Coprisi dai rischi, laddove è possibile, può essere razionale se riduce la possibilità di deficit di cassa o di dissesto finanziario.",
+    "In alcuni casi, la copertura può anche rendere più facile controllare e motivare i manager operativi.",
+    "Alleggerire i manager dal peso dei rischi, al di fuori del loro controllo, li aiuta a concentrarsi su ciò che può essere controllato"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per Selezione avversa",
+  "answers": [
+    "Situazione in cui una politica di prezzo porta ad attirare solo i clienti maggiormente desiderabili.",
+    "Rischio che l'esistenza di un contratto cambi il comportamento di una o entrambe le parti.",
+    "Situazione in cui una politica di prezzo porta ad attirare solo i clienti meno desiderabili.",
+    "Rischio che l'esistenza di un contratto aumenti il rischio di default"
+  ],
+  "correct": 2
+},
+{
+  "question": "Qual è il vantaggio della gestione collettiva del risparmio",
+  "answers": [
+    "Permette di investire in asset non disponibili individualmente",
+    "Limita la diversificazione per ridurre i costi",
+    "Garantisce rendimenti fissi",
+    "Consente solo investimenti a breve termine"
+  ],
+  "correct": 0
+},
+{
+  "question": "Qual è la caratteristica principale di un coupon bond",
+  "answers": [
+    "Offre un rendimento variabile",
+    "Non offre rendimenti",
+    "Paga un interesse fisso noto come cedola",
+    "È sempre venduto al di sotto del valore nominale"
+  ],
+  "correct": 2
+},
+{
+  "question": "Il rischio sistematico di un'azione",
+  "answers": [
+    "Dipende esclusivamente dall'azienda emittente",
+    "Può essere ridotto con una buona diversificazione",
+    "Non è eliminabile tramite diversificazione",
+    "Non influisce sui dividendi"
+  ],
+  "correct": 2
+},
+{
+  "question": "Come funziona il credito al consumo finalizzato",
+  "answers": [
+    "Il credito è destinato all'acquisto di beni immobili",
+    "Il consumatore ottiene il finanziamento per acquisti specifici presso il venditore",
+    "È disponibile solo per le imprese",
+    "Il finanziamento copre esclusivamente servizi educativi"
+  ],
+  "correct": 1
+},
+{
+  "question": "Qual è l'effetto di un finanziamento non finalizzato nel credito al consumo",
+  "answers": [
+    "Il consumatore deve specificare l'acquisto",
+    "Il finanziamento è limitato a beni di lusso",
+    "Il consumatore ha libertà sull'uso del finanziamento",
+    "È sempre legato a un bene immobiliare"
+  ],
+  "correct": 2
+},
+{
+  "question": "Qual è la durata tipica del finanziamento per i mutui a tasso fisso",
+  "answers": [
+    "Varia mensilmente",
+    "È stabilita per l'intera durata del finanziamento",
+    "Cambia in base all'Euribor",
+    "Si adatta annualmente secondo il mercato"
+  ],
+  "correct": 1
+},
+{
+  "question": "Qual è la principale differenza tra leasing operativo e finanziario",
+  "answers": [
+    "Il leasing operativo non prevede l'opzione di acquisto a fine contratto",
+    "Entrambi trasferiscono la proprietà immediatamente",
+    "Non esiste differenza significativa",
+    "Entrambi sono a breve termine"
+  ],
+  "correct": 0
+},
+{
+  "question": "Il prezzo a pronti del peso è 13,2155 per dollaro e il tasso di cambio a termine a 3 mesi è 13,3805 peso per dollaro. Qual è la relazione premio-sconto",
+  "answers": [
+    "Il peso quota con uno sconto del 4,93% rispetto al dollaro",
+    "Il peso quota con un premio a termine del 4,93% rispetto al dollaro",
+    "Il peso quota con un premio a termine del 3,93% rispetto al dollaro",
+    "Il peso quota con uno sconto del 3,93% rispetto al dollaro"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa si intende per esposizione economica",
+  "answers": [
+    "Rischio derivante dalle variazioni dei tassi di cambio reali",
+    "Rischio che deriva dalle variazioni dei tassi di cambio",
+    "Rischio che i prezzi delle obbligazioni scendano come conseguenza del movimento dei tassi di interesse",
+    "Rischio che i prezzi dei BOT scendano come conseguenza del movimento dei tassi di interesse"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nell'ambito del portfoliomanager, come viene suddiviso il rischio sistematico",
+  "answers": [
+    "Rischio specifico settoriale e fattori di rischio sistematico",
+    "Rischio settoriale e rischio Paese",
+    "Fattori economici globali e fattori geografici",
+    "Rischio specifico settoriale e fattori settoriali"
+  ],
+  "correct": 1
+},
+{
+  "question": "Cosa si intende per Selezione avversa",
+  "answers": [
+    "Situazione in cui una politica di prezzo porta ad attirare solo i clienti maggiormente desiderabili.",
+    "Rischio che l'esistenza di un contratto cambi il comportamento di una o entrambe le parti.",
+    "Situazione in cui una politica di prezzo porta ad attirare solo i clienti meno desiderabili.",
+    "Rischio che l'esistenza di un contratto aumenti il rischio di default"
+  ],
+  "correct": 2
+},
+{
+  "question": "In riferimento alla classe senior secured, quale è il tasso di recupero",
+  "answers": [
+    "51,13",
+    "53,80",
+    "38,52",
+    "32,74"
+  ],
+  "correct": 1
+},
+{
+  "question": "Nel Creditmetrics, quale è la variabile determinante l'evoluzione del livello di rischio della controparte",
+  "answers": [
+    "Il valore dell'attività dell'impresa",
+    "La distribuzione dei rendimenti",
+    "La classe di rating",
+    "La probabilità di migrazione"
+  ],
+  "correct": 0
+},
+{
+  "question": "A quanto corrisponde lo Z' cut-off",
+  "answers": [
+    "2.675",
+    "2.99",
+    "2.189",
+    "1.875"
+  ],
+  "correct": 0
+},
+{
+  "question": "Come può essere definita la variabile \"organizational form\"",
+  "answers": [
+    "A dichotomous variable that is equal to 1 if the firm had problem with the banking system in the past; or 0 otherwise",
+    "An indicator variable measured as the percentage of the non-performing loans in a given country",
+    "A dummy variable that sets at 1 if the major part of board members (at least 50%) in the board is a woman, 0 otherwise",
+    "A dummy variable that has value of 1 if the firm is a partnership, 0 if the firm is a corporation"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa determina l'Adverse Selection",
+  "answers": [
+    "Innalzamento del premio",
+    "Attività di monitoring",
+    "Costi a carico della banca.",
+    "Esclusione dal circuito creditizio"
+  ],
+  "correct": 0
+},
+{
+  "question": "Cosa rappresenta il tasso di errore Beta",
+  "answers": [
+    "La % di imprese insolventi correttamente identificate",
+    "La % di imprese sane correttamente identificate",
+    "La % di imprese insolventi erroneamente identificate",
+    "La % di imprese sane erroneamente identificate come insolventi"
+  ],
+  "correct": 3
+},
+{
+  "question": "Nell'approccio avanzato, quante sono le fasi per la misurazione del rischio operativo",
+  "answers": [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "correct": 2
+},
+{
+  "question": "Quali di questi elementi non rientra nel computo delle risorse stabili disponibili previste dal NSFR",
+  "answers": [
+    "Patrimonio",
+    "Azioni privilegiate e altri strumenti di capitale eccedenti l'importo computabile nel Tier 2 con scadenza pari o superiore a un anno",
+    "Passività con scadenze effettive pari o superiori a un anno",
+    "Depositi liberi e/o a termine con scadenze inferiori a due anni"
+  ],
+  "correct": 3
+},
+{
+  "question": "Nell'IRB foundation:",
+  "answers": [
+    "PD, M, EAD e LGD sono stimate dalla banca",
+    "PD, M, EAD e LGD sono stimate dall'autorità di vigilanza",
+    "Solo la PD è stimata dalla banca",
+    "PD, M, EAD sono stimate dalla banca"
+  ],
+  "correct": 2
+},
+{
+  "question": "Nello Standardised Approach, a quanto corrisponde il Beta della business line Retail banking",
+  "answers": [
+    "0%",
+    "0%",
+    "0%",
+    "0%"
+  ],
+  "correct": 0
+},
+{
+  "question": "Secondo S&P, per un rating compreso da AAA+ a AA-, a quanto corrisponde la ponderazione",
+  "answers": [
+    "0%",
+    "0%",
+    "0%",
+    "0%"
+  ],
+  "correct": 1
+},
+{
+  "question": "Secondo S&P, per un rating compreso da A+ a A-, a quanto corrisponde la ponderazione",
+  "answers": [
+    "0%",
+    "0%",
+    "0%",
+    "0%"
+  ],
+  "correct": 0
+},
+{
+  "question": "Secondo M&M e in un mercato perfetto ed efficiente, la leva finanziaria ha effetto sulla ricchezza degli azionisti?",
+  "answers": [
+    "No",
+    "Sì",
+    "Solo in alcuni casi",
+    "Sì, perché cambia il rendimento delle attività"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quante sono le fasi in caso di processo di giudizio esterno del rating",
+  "answers": [
+    "2",
+    "5",
+    "4",
+    "7"
+  ],
+  "correct": 3
+},
+{
+  "question": "Cosa rappresenta l'indice di Sharpe:",
+  "answers": [
+    "Il rapporto tra il premio per il rischio e lo scarto quadratico medio",
+    "La covarianza media di tutti i titoli",
+    "La pendenza del capital market line",
+    "Un indice del mercato azionario"
+  ],
+  "correct": 0
+},
+{
+  "question": "Riguardo la politica dei dividendi, cosa affermano i conservatori:",
+  "answers": [
+    "Ritengono che un aumento dei dividendi contribuisca a diminuire il valore dell'impresa",
+    "Ritengono che un aumento dei dividendi contribuisca ad aumentare il valore dell'impresa",
+    "Ritengono che le diverse politiche di dividendo siano indifferenti",
+    "Ritengono che i dividendi migliorano le performance aziendali"
+  ],
+  "correct": 1
+},
+{
+  "question": "Da cosa è dato il payout ratio:",
+  "answers": [
+    "Rapporto fra dividendo e utile per azione (EPS)",
+    "1 - ROE",
+    "1 - Plowback Ratio",
+    "EPS/capitale netto per azione"
+  ],
+  "correct": 0
+},
+{
+  "question": "Quale è il limite della teoria di Markowitz:",
+  "answers": [
+    "Considera solo i titoli privi di rischio",
+    "Non considera i titoli privi di rischio",
+    "Considera solo i BOT",
+    "Ipotizza mercati efficienti"
+  ],
+  "correct": 1
+},
 ]
   
