@@ -793,7 +793,108 @@
     "Valore basato sul fair value delle attività e delle passività"
   ],
   "correct": 2
+},
+{
+  "question": "Una call ha un valore sempre superiore a quella che avrebbe se esercitata immediatamente e mai inferiore al valore dell'azione",
+  "answers": [
+    "Una call ha un valore sempre superiore a quella che avrebbe se esercitata immediatamente e mai superiore al valore dell'azione",
+    "Una call ha un valore sempre inferiore a quella che avrebbe se esercitata immediatamente e mai superiore al valore dell'azione",
+    "Una call ha un valore sempre inferiore a quella che avrebbe se esercitata immediatamente e mai superiore al prezzo di esercizio",
+    "L'affermazione è vera"
+  ],
+  "correct": 0
+},
+{
+  "question": "Nell'IRB foundation",
+  "answers": [
+    "PD, M, EAD e LGD sono stimate dalla banca",
+    "PD, M, EAD e LGD sono stimate dall'autorità di vigilanza",
+    "Solo la PD è stimata dalla banca",
+    "PD, M, EAD sono stimate dalla banca"
+  ],
+  "correct": 2
+},
+{
+  "question": "Il termine Value at Risk fu coniato",
+  "answers": [
+    "Negli anni '70",
+    "Agli inizi degli anni '90",
+    "Nel 2000",
+    "Nel 1985"
+  ],
+  "correct": 1
+},
+{
+  "question": "Quale delle seguenti affermazioni sulle simulazioni Montecarlo è vera",
+  "answers": [
+    "I parametri sono casuali",
+    "In corrispondenza di ognuno degli scenari si calcola il valore contabile della singola posizione a rischio",
+    "Per il calcolo del VAR si segue la logica del percentile",
+    "Si possono prevedere solo due scenari"
+  ],
+  "correct": 2
+},
+{
+  "question": "Negli approcci semplificati (BIA), come viene calcolato il MID",
+  "answers": [
+    "Come media degli ultimi 5 anni",
+    "Come media degli ultimi 3 anni",
+    "Come media degli ultimi 4 anni",
+    "Come media degli ultimi 6 anni"
+  ],
+  "correct": 1
+},
+{
+  "question": "Come può essere definito lo shadow banking system",
+  "answers": [
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti all'interno del sistema bancario ma con differenti regole",
+    "Il sistema di intermediazione creditizia costituito da entità ed attività operanti al di fuori del normale sistema bancario",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamento",
+    "Il sistema di intermediazione creditizia costituito da entità di finanziamenti esclusivamente a lungo termine"
+  ],
+  "correct": 1
+},
+{
+  "question": "Secondo la visione stakeholder-friendly culture dell'azienda, quanti sono i bisogni degli stakeholder",
+  "answers": [
+    "10",
+    "12",
+    "5",
+    "6"
+  ],
+  "correct": 3
+},
+{
+  "question": "Il modello Z-Score (Altman, 1968) è stato sviluppato partendo da un database di",
+  "answers": [
+    "66 imprese manifatturiere quotate statunitensi",
+    "67 imprese manifatturiere quotate statunitensi",
+    "68 imprese manifatturiere non quotate statunitensi",
+    "69 imprese di servizi non quotate statunitensi"
+  ],
+  "correct": 0
+},
+{
+  "question": "A quanto corrisponde lo Z'' cut-off",
+  "answers": [
+    "2.99",
+    "2.189",
+    "1.875",
+    "2.675"
+  ],
+  "correct": 3
+},
+{
+  "question": "Quante banche hanno registrato uno shortfall nello stress test 2014",
+  "answers": [
+    "33",
+    "23",
+    "24",
+    "12"
+  ],
+  "correct": 2
 }
 ]
+
 
   
